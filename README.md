@@ -35,7 +35,7 @@
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25px"> | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25px"> |
+| | |
 |:--|:--|
 | **Alias** | Cypher7 |
 | **Role** | Security Researcher & Developer |
@@ -194,11 +194,15 @@ All time Global
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cypheeeeer7&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Cypheeeeer7&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&border_color=00ff66&border_radius=12" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypheeeeer7&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff66&text_color=c9d1d9" width="100%" />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=true&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypheeeeer7&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=00ff66&text_color=c9d1d9&border_color=00ff66&border_radius=12&cache_seconds=1800" width="100%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=false&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&border=00ff66&border_radius=12" width="100%" />
 
 </div>
 
