@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=280&section=header&text=CYPHER7&fontSize=84&fontColor=00ff66&fontAlignY=36&desc=Security%20Researcher%20%7C%20Since%202019&descAlignY=58&descSize=20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff66,100:000000&height=220&section=header&text=CYPHER7&fontSize=72&fontColor=00ff66&fontAlignY=38&desc=Security%20Researcher%20%7C%20Since%202019&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Cypher7" />
 
 <a href="https://github.com/Cypheeeeer7">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=root%40cypher7%3A~%23+whoami;Security+Researcher+%7C+Ethical+Hacker;7%2B+Years+in+Cybersecurity;Think+like+an+attacker.;Build+like+a+defender." alt="typing" />
@@ -17,10 +17,6 @@
 <img src="https://img.shields.io/badge/CEH-Certified-ff0033?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/Security%2B-CompTIA-c8202f?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/eJPT-Certified-0a66c2?style=for-the-badge&labelColor=000000" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Cypheeeeer7&label=PROFILE+VIEWS&color=00ff66&style=flat-square&labelColor=000000" />
 
 </div>
 
@@ -242,6 +238,6 @@ jnvgvat gb or rkcybvgrq.
 
 <img src="https://img.shields.io/badge/Open_to-Collaboration-00ff66?style=for-the-badge&logo=handshake&logoColor=black" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff66,100:000000&height=120&section=footer&reversal=true" width="100%" />
 
 </div>
