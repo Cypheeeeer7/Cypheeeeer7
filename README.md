@@ -22,7 +22,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5ZXxUuX7y3ZK/giphy.gif" width="28"> Boot Sequence
+## Boot Sequence
 
 ```bash
 ┌──(root㉿cypher7)-[~]
@@ -70,7 +70,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="28"> Journey
+Journey
 
 ```text
 ╔══════════════════════════════════════════════════╗
@@ -88,7 +88,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> What I Do
+What I Do
 
 🎯 Domain 🛡️ Mission
 Application Security Find and fix web vulnerabilities (OWASP Top 10)
@@ -99,7 +99,7 @@ Bug Bounty Report real vulnerabilities, responsibly
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Skill Level
+Skill Level
 
 ```text
 ╭─────────────────────────────────────────────╮
@@ -117,7 +117,7 @@ Bug Bounty Report real vulnerabilities, responsibly
 
 ---
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Arsenal
+Arsenal
 
 <details open>
 <summary><b>💻 Languages</b></summary>
@@ -165,7 +165,7 @@ https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=w
 
 ---
 
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="28"> HackerOne
+HackerOne
 
 <div align="center">
 
@@ -176,50 +176,13 @@ https://img.shields.io/badge/JOINED-JANUARY_2019-181717?style=for-the-badge&logo
 
 
 
-<table>
-<tr>
-<th>📊 Signal</th>
-<th>💥 Impact</th>
-</tr>
-<tr>
-<td align="center"><b>4.8</b><br/><sub>99th percentile</sub></td>
-<td align="center"><b>5.0</b><br/><sub>97th percentile</sub></td>
-</tr>
-</table>
+📊 Signal 💥 Impact
+4.8 5.0
+99th percentile 97th percentile
 
-<table>
-<tr>
-<th>🏆 Reputation</th>
-<th>🌍 Rank</th>
-</tr>
-<tr>
-<td align="center"><b>4,290</b><br/><sub>All time</sub></td>
-<td align="center"><b>#384</b><br/><sub>Global</sub></td>
-</tr>
-</table>
+🏆 Reputation 🌍 Rank
+4,290 #384
+All time Global
 
 </div>
 
----
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="28"> Currently Learning
-
-```diff
-+ 🔐 DevSecOps
-+ ☁️ Cloud Security
-+ 🌐 Cross-Platform Security
-```
-
----
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cypheeeeer7&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypheeeeer7&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=10" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41&border_radius=10" width="100%" />
-
-</div>
