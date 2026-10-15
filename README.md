@@ -1,19 +1,22 @@
+
+
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=15&pause=300&color=FF0000&background=000000&center=true&vcenter=true&width=1000&height=35&lines=%E2%9A%A0+WARNING%3A+SYSTEM+UNDER+ATTACK+%E2%9A%A0;%F0%9F%94%A5+ENCRYPTION+BREACH+DETECTED+%F0%9F%94%A5;%F0%9F%92%80+HACKER+ACCESS+GRANTED+%F0%9F%92%80;%E2%9C%85+FIREWALL+ACTIVE+%E2%9C%85;%F0%9F%9B%A1%EF%B8%8F+SECURITY+PROTOCOL+ON+%F0%9F%9B%A1%EF%B8%8F" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=15&pause=300&color=FF0000&background=000000&center=true&vcenter=true&width=1000&height=35&lines=%E2%9A%A0+WARNING%3A+SYSTEM+UNDER+ATTACK+%E2%9A%A0;%F0%9F%94%A5+ENCRYPTION+BREACH+DETECTED+%F0%9F%94%A5;%F0%9F%92%80+HACKER+ACCESS+GRANTED+%F0%9F%92%80;%E2%9C%85+FIREWALL+ACTIVE+%E2%9C%85" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:00ff66,40:000000,60:00ff66,80:000000,100:00ff66&height=300&section=header&text=CYPHER7&fontSize=110&fontColor=00ff66&fontAlignY=38&stroke=ff0000&strokeWidth=6&desc=Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Since%202019&descSize=20&descAlignY=62&animation=twinkling" width="100%" alt="Cypher7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:ff0000,40:000000,60:ff6600,80:000000,100:ff0000&height=300&section=header&text=CYPHER7&fontSize=110&fontColor=ff6600&fontAlignY=38&stroke=ff0000&strokeWidth=6&desc=Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Since%202019&descSize=20&descAlignY=62&animation=twinkling" width="100%" alt="Cypher7" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=12&pause=100&color=00FF66&background=000000&center=true&vcenter=true&width=1000&height=25&lines=01001000+01000001+01000011+01001011;10110011+11001010+00110101+10010110;01000011+01011001+01010000+01001000;11000101+00111010+10010101+01100010" width="100%" />
 
 <a href="https://github.com/Cypheeeeer7">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=root%40cypher7%3A~%23+whoami;Security+Researcher+%7C+Ethical+Hacker;7%2B+Years+in+Cybersecurity;Think+like+an+attacker.;Build+like+a+defender." alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6600&center=true&vcenter=true&width=650&lines=root%40cypher7%3A~%23+whoami;Security+Researcher+%7C+Ethical+Hacker;7%2B+Years+in+Cybersecurity;Think+like+an+attacker.;Build+like+a+defender." alt="typing" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Experience-7%2B_Years-00ff66?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Since-2019-00ff66?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Experience-7%2B_Years-ff6600?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Since-2019-ff0000?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/Status-Online-00ff66?style=for-the-badge&labelColor=000000" />
 
 <br/>
@@ -22,7 +25,7 @@
 <img src="https://img.shields.io/badge/Security%2B-CompTIA-c8202f?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/eJPT-Certified-0a66c2?style=for-the-badge&labelColor=000000" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff66,100:000000&height=70&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:000000,100:ff6600&height=70&section=footer&reversal=true" width="100%" />
 
 </div>
 
@@ -198,15 +201,15 @@ All time Global
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cypheeeeer7&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&border_color=00ff66&border_radius=12" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Cypheeeeer7&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=000000&title_color=ff6600&icon_color=ff0000&text_color=c9d1d9&border_color=ff0000&border_radius=12" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypheeeeer7&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=00ff66&text_color=c9d1d9&border_color=00ff66&border_radius=12&cache_seconds=1800" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypheeeeer7&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=ff6600&text_color=c9d1d9&border_color=ff0000&border_radius=12&cache_seconds=1800" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=false&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&border=00ff66&border_radius=12" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=false&background=000000&ring=ff0000&fire=ff6600&currStreakLabel=ff6600&border=ff0000&border_radius=12" width="100%" />
 
 </div>
 
@@ -231,7 +234,7 @@ jnvgvat gb or rkcybvgrq.
 <div align="center">
 
 <a href="https://github.com/Cypheeeeer7">
-  <img src="https://img.shields.io/badge/GitHub-Cypheeeeer7-000000?style=for-the-badge&logo=github&logoColor=00ff66" />
+  <img src="https://img.shields.io/badge/GitHub-Cypheeeeer7-000000?style=for-the-badge&logo=github&logoColor=ff6600" />
 </a>
 <a href="https://instagram.com/cypheer7">
   <img src="https://img.shields.io/badge/Instagram-@cypheer7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -249,8 +252,6 @@ jnvgvat gb or rkcybvgrq.
 
 <img src="https://img.shields.io/badge/Open_to-Collaboration-00ff66?style=for-the-badge&logo=handshake&logoColor=black" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20&height=130&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:000000,100:ff6600&height=130&section=footer&reversal=true" width="100%" />
 
 </div>
-
-
