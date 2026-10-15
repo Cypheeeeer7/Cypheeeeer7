@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#03140a"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="160" fill="url(#bg)"/>
+
+  <path fill="#00ff66" fill-opacity="0.18"
+        d="M0,100 q75,-25 150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 L1500,160 L0,160 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <path fill="#00ff66" fill-opacity="0.30"
+        d="M0,115 q50,30 100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 L1400,160 L0,160 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-200 0" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <path fill="#00ff66" fill-opacity="0.50"
+        d="M0,110 q62.5,-35 125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 L1500,160 L0,160 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-250 0" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="34" text-anchor="middle" font-family="Courier New, monospace"
+        font-size="14" letter-spacing="6" fill="#00ff66" fill-opacity="0.8">
+    SECURITY RESEARCHER  |  SINCE 2019
+  </text>
+
+  <text x="500" y="88" text-anchor="middle" font-family="Courier New, monospace"
+        font-size="54" font-weight="bold" letter-spacing="10" fill="#00ff66" filter="url(#glow)">
+    CYPHER7
+    <animate attributeName="fill-opacity" values="1;0.75;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
