@@ -186,3 +186,28 @@ All time Global
 
 </div>
 
+---
+
+Currently Learning
+
+```diff
++ 🔐 DevSecOps
++ ☁️ Cloud Security
++ 🌐 Cross-Platform Security
+```
+
+---
+
+GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cypheeeeer7&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypheeeeer7&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=10" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41&border_radius=10" width="100%" />
+
+</div>
+
+
