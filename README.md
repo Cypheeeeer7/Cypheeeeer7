@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20&height=270&section=header&text=CYPHER7&fontSize=88&fontColor=00ff66&fontAlignY=38&stroke=00ff66&strokeWidth=2&desc=Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Since%202019&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Cypher7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=15&pause=300&color=FF0000&background=000000&center=true&vcenter=true&width=1000&height=35&lines=%E2%9A%A0+WARNING%3A+SYSTEM+UNDER+ATTACK+%E2%9A%A0;%F0%9F%94%A5+ENCRYPTION+BREACH+DETECTED+%F0%9F%94%A5;%F0%9F%92%80+HACKER+ACCESS+GRANTED+%F0%9F%92%80;%E2%9C%85+FIREWALL+ACTIVE+%E2%9C%85;%F0%9F%9B%A1%EF%B8%8F+SECURITY+PROTOCOL+ON+%F0%9F%9B%A1%EF%B8%8F" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:00ff66,40:000000,60:00ff66,80:000000,100:00ff66&height=300&section=header&text=CYPHER7&fontSize=110&fontColor=00ff66&fontAlignY=38&stroke=ff0000&strokeWidth=6&desc=Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Since%202019&descSize=20&descAlignY=62&animation=twinkling" width="100%" alt="Cypher7" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=12&pause=100&color=00FF66&background=000000&center=true&vcenter=true&width=1000&height=25&lines=01001000+01000001+01000011+01001011;10110011+11001010+00110101+10010110;01000011+01011001+01010000+01001000;11000101+00111010+10010101+01100010" width="100%" />
 
 <a href="https://github.com/Cypheeeeer7">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=root%40cypher7%3A~%23+whoami;Security+Researcher+%7C+Ethical+Hacker;7%2B+Years+in+Cybersecurity;Think+like+an+attacker.;Build+like+a+defender." alt="typing" />
